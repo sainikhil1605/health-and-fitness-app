@@ -1,0 +1,9 @@
+.odd\:flex-row:nth-child(odd) > div > div {
+  margin-right: 60px;
+}
+.even\:flex-row-reverse:nth-child(even) > div > div {
+  margin-left: 60px;
+}
+.even\:flex-row-reverse:nth-child(even) > div > h4 {
+  margin-left: 60px;
+}
